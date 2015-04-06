@@ -1,0 +1,3 @@
+The University of Arizona's modified version of the Cartwheel 3D simulator. For the original Cartwheel simulator, [go here](http://code.google.com/p/cartwheel-3d/). This version is forked from the original Cartwheel project. It is designed to build for Linux rather than Windows, and has been modified to act as an environment for planning and a data source for simulation-driven AI projects.
+
+This version of Cartwheel 3D is authorized as a Derived Work under the Apache License 2.0.
